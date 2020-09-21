@@ -1,6 +1,6 @@
 # RoboArm-Mini-project
 
-* An openGL project made in C++ to simulate movements of a robot's palm and fingers in 3-D.
+* A C++ openGL project to simulate movements of a robot's palm and fingers in 3-D.
 * This was submitted as "Mini project" under the "Computer Graphics and Visualization" subject of 6th semester (2019) BE CSE degree by me.
 
 ## Controls
