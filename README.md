@@ -11,7 +11,7 @@
   * 'T' and 't': To move the thumb.
   * 'L' and 'l': To move the little finger.
  
- * Wrist controls:
+* Wrist controls:
   * 'C' and 'c': Y-axis rotation.
   * 'W' and 'w': X-axis rotation.
   * 'Z' and 'z': Z-axis rotation.
